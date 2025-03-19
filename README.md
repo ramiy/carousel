@@ -92,8 +92,8 @@ Using the above features, a carousel can be implemented as a semantic list of it
   <li>Item 1</li>
   <li>Item 2</li>
   ...
-```
 </ul>
+```
 
 Where the CSS can turn this into a variety of carousel designs.
 
